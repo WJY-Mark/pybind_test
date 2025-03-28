@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.jsonnet": "json",
+        "bitset": "cpp",
+        "random": "cpp"
+    }
+}

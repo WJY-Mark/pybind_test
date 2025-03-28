@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o test_pybind.cpython-38-x86_64-linux-gnu.so CMakeFiles/test_pybind.dir/main.cpp.o 

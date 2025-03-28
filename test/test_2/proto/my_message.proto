@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package deeproute.planning;
+
+message ProtoLonPoint {
+    optional double s = 1;
+    optional double v = 2;
+    optional double a = 3;
+    optional double j = 4;
+    optional double t = 5;
+    optional double h = 6;
+}
